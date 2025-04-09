@@ -15,7 +15,7 @@ Bu uygulama, ses kayıtlarını metne dönüştüren ve Word belgesi olarak indi
 
 Bu uygulamanın canlı demosuna şu adresten erişebilirsiniz:
 
-[Ses Transkript Uygulaması Demo](https://streamlit.io/) - *Streamlit Cloud'a deploy ettikten sonra buradaki URL'yi güncelleyin*
+[Ses Transkript Uygulaması Demo]([https://streamlit.io/](https://ses-transcript.streamlit.app/)) - 
 
 ## Kurulum ve Yerel Çalıştırma
 
