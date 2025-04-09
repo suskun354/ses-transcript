@@ -1,0 +1,5 @@
+streamlit>=1.22.0
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+python-docx>=0.8.11
+ffmpeg-python>=0.2.0 
